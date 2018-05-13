@@ -74,7 +74,7 @@ class BooksForm extends React.Component {
         }, this)
 
         return (
-            <Well style={{ minHeight: 'calc(100vh - 135px)', marginBottom: '0' }}>
+            <Well className='container' style={{ minHeight: 'calc(100vh - 135px)', marginBottom: '0' }}>
                 <Row>
                     <Col xs={12} sm={6}>
                         <Panel>
