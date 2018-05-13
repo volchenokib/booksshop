@@ -15,7 +15,7 @@ class Menu extends React.Component {
             <Navbar inverse fixedTop>
                 <Navbar.Header>
                     <Navbar.Brand>
-                        <a href="/">React-Bootstrap</a>
+                        <a href="/">Books Shop</a>
                     </Navbar.Brand>
                     <Navbar.Toggle />
                 </Navbar.Header>
